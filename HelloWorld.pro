@@ -5,7 +5,9 @@ CONFIG -= qt
 
 SOURCES += \
         Rectangle.cpp \
+        Student.cpp \
         main.cpp
 
 HEADERS += \
-    Rectangle.h
+    Rectangle.h \
+    Student.h
