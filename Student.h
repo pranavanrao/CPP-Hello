@@ -8,6 +8,7 @@ public:
 
 private:
     int m_rollNum;
+    int m_marks;
 };
 
 #endif // STUDENT_H
