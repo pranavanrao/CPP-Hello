@@ -8,6 +8,7 @@ public:
 
 private:
     int m_random;
+    int m_qwerty;
 };
 
 #endif // RANDOM_H
