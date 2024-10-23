@@ -5,6 +5,9 @@ class Random
 {
 public:
     Random();
+
+private:
+    int m_random;
 };
 
 #endif // RANDOM_H
